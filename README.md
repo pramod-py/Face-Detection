@@ -19,5 +19,5 @@ OpenCV provides a number of pre-trained models as part of the installation. Thes
 
 Download a pre-trained model for frontal face detection from the OpenCV GitHub project and place it in your current working directory with the filename 'haarcascade_frontalface_default.xml'.
 
-## Source Code <a name="Source_Code"></a> [Click Here](https://pages.github.com/Face-Detection/Face-Detection.ipynb)
+## Source Code <a name="Source_Code"></a> [Click Here](https://github.com/pramod-sanghavi/Face-Detection/blob/master/Face%20Detection%20Using%20Haarcascade.ipynb)
 
